@@ -1,4 +1,4 @@
-Mainline Linux Support Status
+主线Linux支持状态
 =========================
 
 ```eval_rst

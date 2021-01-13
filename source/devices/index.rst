@@ -1,9 +1,9 @@
-Devices
+设备
 =============
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: 目录
 
    comparison.md
    linux.md

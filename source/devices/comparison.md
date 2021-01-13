@@ -1,10 +1,10 @@
-Specs Comparison
+设备规格比较
 ================
 
-Specs
+规格
 ------
 
-Note: There are problems with syntax below.
+提示: 下方的rst语法存在问题
 
 ```eval_rst
 +----------+----------+----------+----------+----------+----------+
