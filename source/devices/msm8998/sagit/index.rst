@@ -1,9 +1,9 @@
-设备特定内容
-=====================
+Xiaomi Mi 6
+=========================
 
 .. toctree::
    :maxdepth: 2
    :caption: 目录
 
-   dipper.md
+   status.md
    

@@ -15,3 +15,4 @@ Renegade Project中文文档
    windows/index
    edk2/index
    devices/index
+   tools/index
